@@ -9,7 +9,7 @@
 谢谢这个美好的时代🎉
 
 ### I'm working for these
-- [ ] Build your own lang in Antlr4.(current ep is 17)
+- [ ] Build your own lang in Antlr4.(current ep is 18)
 - [ ] VM design and optimize（I'm a freshman but I love it!)
 - [ ] compilation backend optimize and nanopass-framework work.
 - [ ] optimize packaging tool for swift or js.
