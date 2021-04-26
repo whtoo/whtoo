@@ -13,6 +13,8 @@
 - [ ] VM design and optimize（I'm a freshman but I love it!)
 - [ ] compilation backend optimize and nanopass-framework work.
 - [ ] optimize packaging tool for swift or js.
+- [ ] ES6+ 2d-canvas render engine (working in progress 70% finished)
+- [ ] ES6+ webgl2 render engine (suspended with metal verison in swift)
 
 ### Finished or Cancelled
 - [x] regex--“Yet another build your own regex engine tutorial”
@@ -21,5 +23,6 @@
 - [x] A CPS transpiler for custom PL。
 - [x] Babel plugins for some funny purpose.
 - [x] Leetcode 刷题集 😭 
+- [x] Another todo app in vue 2.x. <-- It's a prototype of my vue tutorial.
 
 
