@@ -9,8 +9,8 @@
 谢谢这个美好的时代🎉
 
 ### I'm working for these
+- [x] Build your own lang in Antlr4.[WIP]
 - [ ] VM design and optimize
-- [ ] Build your own lang in Antlr4.
 
 ### Finished | Cancelled | Suspended
 - [x] regex--“Yet another build your own regex engine tutorial”
