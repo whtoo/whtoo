@@ -1,12 +1,7 @@
 ### Hi there 👋
-我是一个魔法师，平时喜欢编译原理应用，最多做的事情是
-写各种编译器前端应用的教程或者工具。我之前在公司写过一套java to swift
-的转换工具，以及一套前端支持简易工作流的响应式套件（在jquery时代）。我
-曾经是一个游戏程序员（我修改过象棋的AI）以及做过近2年的技术管理工作。
-之前，我曾经陷入了一个无趣的困境，但是我又从编译原理中找到了乐趣。
-所以，我回来了，目前我在寻找大前端（iOS、前端、android）的工作，
-个人偏好是工具开发--能够做代码生成、代码分析类的工作我会特别感谢。
+
 谢谢这个美好的时代🎉
+Give thanks for a world of possibility and change
 
 ### I'm working for these
 - [x] create my onw langguage - Cyson powered by LLVM and Antlr4.[WIP]
