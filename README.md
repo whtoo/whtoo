@@ -19,7 +19,7 @@ Give thanks for a world of possibility and change
 
 ### Suspended
 - [x] Build your own OS(restart after cyson raise).
-- [ ] Video real-time filter
+- [ ] real-time video filter
 - [ ] ES6+ 2d-canvas render engine (working in progress 70% finished)
 - [ ] ES6+ webgl2 render engine (suspended with metal verison in swift)
 ~~- [ ] Another todo app in vue 2.x. <-- It's a prototype of my vue tutorial.~~
