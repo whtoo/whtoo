@@ -5,10 +5,8 @@
 Give thanks for a world of possibility and change
 
 ### I'm working for these
-- [x] create my onw langguage - Cyson powered by LLVM and Antlr4.[WIP]
-- [x] VM design and optimize. [WIP]
-- [x] Make everyone can create their purpose DSL and GPL for any case.[WIP]
-- [x] compilation backend optimize and nanopass-framework work.
+- [ ] Universal exchange-credit system for common community.
+- [ ] The Tao in modern version for all people within new math and symbol.
 
 ### Finished
 - [x] regex--“Yet another build your own regex engine tutorial”
@@ -17,9 +15,13 @@ Give thanks for a world of possibility and change
 - [x] Babel plugins for some funny purpose.
 - [x] Leetcode 刷题集 😭
 - [x] Build your own OS(restart after cyson raise).
+- [x] The lecture of designing and optimizing for Programming Language powered by VM. 
+- [x] Teaching everyone to create their purpose DSL and GPL for any case.
 
 
 ### Suspended
+- [ ] compilation backend optimize and nanopass-framework work(Not yet now).
+- [ ] create my onw langguage - Cyson powered by LLVM and Antlr4(Not yet now).
 - [ ] re-write babel-like tool but for generating more by LLVM.
 - [ ] real-time video filter
 - [ ] ES6+ 2d-canvas render engine (working in progress 70% finished)
